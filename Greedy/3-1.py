@@ -32,3 +32,7 @@ while length >= 2: #잔돈의 길이가 10의 자리보다 크거나 같고 N이
   length = len(str(N))
 
 print(count)
+
+# 사용 예시
+#1260
+# 결과 6
