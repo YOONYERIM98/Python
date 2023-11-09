@@ -1,4 +1,4 @@
-# 이것이 코딩 테스트다 3-1 큰 수의 법
+# 이것이 코딩 테스트다 3-2 큰 수의 법
 num = list(map(int, input().split()))
 n = input().split()
 n.sort(reverse = True)
