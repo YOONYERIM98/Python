@@ -1,4 +1,4 @@
-# 3-1
+# 이것이 코딩 테스트다 3-1 거스름돈
 N = input()
 length = len(N)
 count = 0
