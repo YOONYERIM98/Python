@@ -10,3 +10,15 @@ for _ in range(n): # n행 만큼 반복하면서 카드 값 입력
   result = max(result, minval) # 가장 큰 카드 값 찾기
 
 print(result)
+
+# 사용 예시
+# 3 3
+# 3 1 2
+# 4 1 4
+# 2 2 2
+# 결과 2
+
+# 2 4 
+# 7 3 1 8
+# 3 3 3 4
+#결과 3
